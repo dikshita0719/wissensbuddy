@@ -91,6 +91,7 @@ function App() {
           </div>
         </div>
         <span className="brand-context">{roleLabels[activeView]}</span>
+        <span className="prototype-badge">MVP • Innovation Challenge</span>
         {activeView !== 'buddy-check' && (
           <button type="button" className="buddy-check-quicklink" onClick={handleOpenBuddyCheck}>
             🩺 Buddy-Check
