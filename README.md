@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wissensbuddy
 
 Wissensbuddy is an interactive prototype for capturing, sharing, and finding team knowledge. It supports employees who are learning a process as well as experienced colleagues who want to pass on their knowledge in a clear, reusable format.
@@ -68,5 +67,3 @@ Important process knowledge is often shared informally and becomes difficult to 
 
 This project is presented as a portfolio and Innovation Challenge prototype.
 =======
-# wissensbuddy
->>>>>>> origin/main
